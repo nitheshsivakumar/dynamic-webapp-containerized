@@ -34,9 +34,6 @@ This project leverages **Docker** for containerization, **ECR** for image storag
 - **Amazon Route 53** - Managing DNS records for domain resolution.
 - **IAM** - Managing permissions and access control.
 
-📌 **Reference Architecture:**  
-![Architecture](2._Docker.jpg)
-
 ---
 
 ## 🚀 Deployment Steps
